@@ -1,0 +1,6 @@
+No special frills about this script, I made a small GUI to make it easier to navigate around the Gravitee cups
+
+The values of the mouse cursor positions are hardcoded, and it only works in 1080p, while using Chrome (ver 79.0.3945.79)
+There is no setup, it's just your standard AutoIT script, download and run! It'll do its magic!
+
+click on any of the course, play it in the game, and press pause for each hole and watch how the ball magically goes through the gate
