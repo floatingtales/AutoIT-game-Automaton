@@ -1,0 +1,11 @@
+This is the automaton for the game Iron Rage on Kongregate, it's a simple image search and clicking whenever appropriate
+It's kinda set up for my computer tho, so I think if you want to use it for other computers, you need to set some of the paths correctly as well
+also, this code is kinda old, I don't play the game anymore, so there might be some changes in the game as well
+
+This code uses ImageSearch script that I found on an old YouTube video circa 2016, with the link attached.
+
+Here are some links to how to make imagesearch work:
+https://www.youtube.com/watch?v=Hy-va-155HY&ab_channel=HeathHaskins
+https://www.autoitscript.com/forum/topic/148005-imagesearch-usage-explanation/page/4/
+
+If you've done the setup, and changed the directories then it should work on your PC too.
